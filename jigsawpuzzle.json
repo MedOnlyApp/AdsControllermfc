@@ -1,2 +1,4 @@
-{"packDatas":[{"name":"7 Wonders 1","bannerUrl":"https://sellgamesource.com/jigsaw/7_wonders_1/banners/banner_3.jpg","price":40,"photoDatas":
-[{"iconUrl":"https://medonlyapp.github.io/images/icon_0.jpg","imageUrl":"https://medonlyapp.github.io/images/image_0.jpg","bannerUrl":"https://medonlyapp.github.io/images/banner_0.jpg"}]}]}
+{
+    "Name" : "Hello world!",
+    "ImageURL" : "https://medonlyapp.github.io/wednesdayvsmeganimages/icon0.jpg"
+}
