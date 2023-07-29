@@ -1,6 +1,6 @@
 {
-    "Permision" : "NO",
-    "Name" : "Hello world!",
+    "Permision" : "YES",
+    "Name" : "Game",
     "ImageURL" : "https://medonlyapp.github.io/wednesdayvsmeganimages/icon0.jpg",
     "Link" : "https://play.google.com/store/apps/details?id=com.garten.banban.coloring.book.MedOnlyApp"
 }
